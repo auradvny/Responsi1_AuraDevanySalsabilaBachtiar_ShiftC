@@ -44,5 +44,5 @@ Shift Baru: Shift C
     
    ![Lampiran Registrasi Form](tambahTiket(1).png)
    ![Lampiran Registrasi](tambahTiket(2).png)
-   ![Lampiran Registrasi Berhasil](tambahTiket(3).png)
+   ![Lampiran Registrasi Berhasil](tambahTiket(4).png)
    ![Lampiran Registrasi Gagal](tambahTiket(3).png)
