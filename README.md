@@ -1,16 +1,47 @@
-# pariwisata
+# Responsi 1
 
-Responsi 1 - Manajemen Pariwisata
+Nama : Aura Devany Salsabila Bachtiar
 
-## Getting Started
+NIM : H1D022015
 
-This project is a starting point for a Flutter application.
+Shift Baru: Shift C
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Tampil Data List
+   
+   ![Lampiran Data List Tiket](listTiket(1).png)
+  
+2. Tampil Detail
+   
+   ![Lampiran Detail Tiket](detailTiket(1).png)
+   
+3. Tampil Tambah
+   
+   ![Lampiran Tambah Tiket Form](tambahTiket(1).png)
+   ![Lampiran Tambah Tiket](tambahTiket(2).png)
+   ![Lampiran Tambah Tiket Gagal](tambahTiket(3).png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Tampil Ubah
+   
+   ![Lampiran Ubah Tiket Form](ubahTiket(1).png)
+   ![Lampiran Ubah Tiket](ubahTiket(2).png)
+   ![Lampiran Ubah Tiket Berhasil](ubahTiket(3).png)
+
+5. Tampil Tambah
+   
+   ![Lampiran Hapus Tiket PopUp](hapus(1).png)
+   ![Lampiran Hapus Tiket Berhasil](hapus(2).png)
+
+6. Login
+   
+   ![Lampiran Login Form](login(1).png)
+   ![Lampiran Login](login(2).png)
+   ![Lampiran Login Gagal](login(3).png)
+   
+7. Registrasi
+    
+   ![Lampiran Registrasi Form](tambahTiket(1).png)
+   ![Lampiran Registrasi](tambahTiket(2).png)
+   ![Lampiran Registrasi Berhasil](tambahTiket(3).png)
+   ![Lampiran Registrasi Gagal](tambahTiket(3).png)
