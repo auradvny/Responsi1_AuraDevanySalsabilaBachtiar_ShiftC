@@ -42,7 +42,7 @@ Shift Baru: Shift C
    
 8. Registrasi
     
-   ![Lampiran Registrasi Form](tambahTiket(1).png)
-   ![Lampiran Registrasi](tambahTiket(2).png)
-   ![Lampiran Registrasi Berhasil](tambahTiket(4).png)
-   ![Lampiran Registrasi Gagal](tambahTiket(3).png)
+   ![Lampiran Registrasi Form](registrasi(1).png)
+   ![Lampiran Registrasi](registrasi(2).png)
+   ![Lampiran Registrasi Berhasil](registrasi(3).png)
+   ![Lampiran Registrasi Gagal](registrasi(4).png)
