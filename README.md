@@ -21,25 +21,26 @@ Shift Baru: Shift C
    ![Lampiran Tambah Tiket Form](tambahTiket(1).png)
    ![Lampiran Tambah Tiket](tambahTiket(2).png)
    ![Lampiran Tambah Tiket Gagal](tambahTiket(3).png)
+   ![Lampiran Tambah Tiket Berhasil](listTiket(1).png)
 
-4. Tampil Ubah
+5. Tampil Ubah
    
    ![Lampiran Ubah Tiket Form](ubahTiket(1).png)
    ![Lampiran Ubah Tiket](ubahTiket(2).png)
    ![Lampiran Ubah Tiket Berhasil](ubahTiket(3).png)
 
-5. Tampil Tambah
+6. Tampil Tambah
    
    ![Lampiran Hapus Tiket PopUp](hapus(1).png)
    ![Lampiran Hapus Tiket Berhasil](hapus(2).png)
 
-6. Login
+7. Login
    
    ![Lampiran Login Form](login(1).png)
    ![Lampiran Login](login(2).png)
    ![Lampiran Login Gagal](login(3).png)
    
-7. Registrasi
+8. Registrasi
     
    ![Lampiran Registrasi Form](tambahTiket(1).png)
    ![Lampiran Registrasi](tambahTiket(2).png)
