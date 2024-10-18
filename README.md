@@ -29,7 +29,7 @@ Shift Baru: Shift C
    ![Lampiran Ubah Tiket](ubahTiket(2).png)
    ![Lampiran Ubah Tiket Berhasil](ubahTiket(3).png)
 
-6. Tampil Tambah
+6. Tampil Delete
    
    ![Lampiran Hapus Tiket PopUp](hapus(1).png)
    ![Lampiran Hapus Tiket Berhasil](hapus(2).png)
